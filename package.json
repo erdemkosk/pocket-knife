@@ -1,0 +1,22 @@
+{
+  "name": "pocket-knife",
+  "version": "1.0.0",
+  "description": "Developer cli-tool",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mustafa Erdem Köşk <erdemkosk@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "clui": "^0.3.6",
+    "commander": "^5.1.0",
+    "configstore": "^5.0.1",
+    "external-ip": "^2.3.1",
+    "figlet": "^1.5.0",
+    "inquirer": "^7.3.1",
+    "yargs": "^15.4.1"
+  }
+}
